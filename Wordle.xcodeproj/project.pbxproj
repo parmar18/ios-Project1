@@ -25,6 +25,7 @@
 		99CF2AA829B0168700B4973F /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CF2AA729B0168700B4973F /* Constants.swift */; };
 		99CF2AAA29B0172800B4973F /* BoardController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CF2AA929B0172800B4973F /* BoardController+Extensions.swift */; };
 		99CF2AAC29B0198D00B4973F /* ViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CF2AAB29B0198D00B4973F /* ViewController+Extensions.swift */; };
+		A850C5AC2AB9262200E5A164 /* Screenshot 2023-09-18 at 8.43.07 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = A850C5AB2AB9262200E5A164 /* Screenshot 2023-09-18 at 8.43.07 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		99CF2AA729B0168700B4973F /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		99CF2AA929B0172800B4973F /* BoardController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BoardController+Extensions.swift"; sourceTree = "<group>"; };
 		99CF2AAB29B0198D00B4973F /* ViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+Extensions.swift"; sourceTree = "<group>"; };
+		A850C5AB2AB9262200E5A164 /* Screenshot 2023-09-18 at 8.43.07 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screenshot 2023-09-18 at 8.43.07 PM.png"; path = "../../../../../var/folders/q2/f0cjjzln7jqb_98yw3y06pnh0000gn/T/TemporaryItems/NSIRD_screencaptureui_vDflXG/Screenshot 2023-09-18 at 8.43.07 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 			children = (
 				996B84C8299990AA00133037 /* WordleUITests.swift */,
 				996B84CA299990AA00133037 /* WordleUITestsLaunchTests.swift */,
+				A850C5AB2AB9262200E5A164 /* Screenshot 2023-09-18 at 8.43.07 PM.png */,
 			);
 			path = WordleUITests;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A850C5AC2AB9262200E5A164 /* Screenshot 2023-09-18 at 8.43.07 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
